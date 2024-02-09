@@ -1,0 +1,22 @@
+.item {
+  padding: 10px;
+  border: 2px solid #212121;
+  border-radius: 8px;
+  transition: box-shadow 150ms ease-in;
+}
+
+.avatar {
+  margin-bottom: 10px;
+}
+
+.name {
+  text-align: center;
+}
+
+.isOnline {
+  color: green;
+}
+
+.isOffline {
+  color: red;
+}
